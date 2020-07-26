@@ -1,0 +1,52 @@
+# Built application files
+*.apk
+*.ap_
+*.jdk
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Android Studio
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+/captures
+.externalNativeBuild
+.cxx
+
+# Idea files
+/.idea/workspace.xml
+/.idea/libraries
+
+# Local configuration file (sdk path, etc)
+/local.properties
+
+# Log Files
+*.log
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+
+# unignore codestyles
+!/.idea/codeStyles/Project.xml
+!/.idea/codeStyles/codeStyleConfig.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+.idea/dataSources.ids
+*.iws
+.idea/libraries
+.idea/vcs.xml
